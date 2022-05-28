@@ -109,4 +109,6 @@ missing:~$ cat hello2.txt
 hello
 ```
 
-# sude
+# sudo命令
+
+它的作用是让您可以以 su（super user 或 root 的简写）的身份执行一些操作。 当您遇到拒绝访问（permission denied）的错误时，通常是因为此时您必须是根用户才能操作。
